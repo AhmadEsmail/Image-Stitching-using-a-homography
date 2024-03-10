@@ -5,7 +5,7 @@ There is a car, and it is equipped with two digital cameras. The cameras are syn
  (i) Taking two images that were taken at the same time. The homography should be estimated only for one image pair. 
 
  (ii) Doing feature matching using ASIFT 
-<span style="color:red;"> ggg </span>
+
 ---
 
 # EX1: inputs:
