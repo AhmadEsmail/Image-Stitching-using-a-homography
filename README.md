@@ -9,3 +9,7 @@ There is a car, and it is equipped with two digital cameras. The cameras are syn
  inputs:
 # Image1 
 ![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/m2.jpg)
+
+# Image2
+![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/s2.jpg)
+
