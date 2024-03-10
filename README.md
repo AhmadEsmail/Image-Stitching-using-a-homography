@@ -14,7 +14,7 @@ There is a car, and it is equipped with two digital cameras. The cameras are syn
 ![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/s2.jpg)
 
 # output:
-![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/out2_14.3.jpg)
+![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/out2_14.3.jpg)\n
 
 
 # EX2: inputs:
