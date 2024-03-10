@@ -6,6 +6,7 @@ There is a car, and it is equipped with two digital cameras. The cameras are syn
  (ii) Doing feature matching using ASIFT 
 
 
+
 # EX1: inputs:
 ## Image1 
 ![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/m2.jpg)
@@ -16,7 +17,9 @@ There is a car, and it is equipped with two digital cameras. The cameras are syn
 # output:
 ![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/out2_14.3.jpg)
 
-\n 
+
+
+
 # EX2: inputs:
 ## Image1 
 ![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/m8.jpg)
