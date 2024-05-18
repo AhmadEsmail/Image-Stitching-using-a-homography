@@ -10,25 +10,25 @@ There is a car, and it is equipped with two digital cameras. The cameras are syn
 
 # EX1: inputs:
 ## Image1 
-![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/m2.jpg)
+![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair1/m2.jpg)
 
 ## Image2
-![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/s2.jpg)
+![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair1/s2.jpg)
 
 # output:
-![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/out2_14.3.jpg)
+![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair1/out2_14.3.jpg)
 
 
 ---
 
 # EX2: inputs:
 ## Image1 
-![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/m8.jpg)
+![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair2/m8.jpg)
 
 ## Image2
-![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/s8.jpg)
+![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair2/s8.jpg)
 
 # output:
-![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/out8_14.jpg)
+![Project Logo](https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair2/out8_14.jpg)
 
 
