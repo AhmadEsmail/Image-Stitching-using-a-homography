@@ -11,22 +11,22 @@ The task is to stitch the images of the two cameras by a homography where:
 
 # EX1: inputs:
 ## Image1 
-<img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair1/m2.jpg" alt="Project Logo" width="500" height="350">
+<img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair1/m2.jpg" alt="Project Logo" width="550" height="400">
 
 ## Image2
-<img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair1/s2.jpg" alt="Project Logo" width="400" height="300">
+<img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair1/s2.jpg" alt="Project Logo" width="550" height="400">
 
 # output:
-<img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair1/out2_14.3.jpg" alt="Project Logo" width="400" height="300">
+<img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair1/out2_14.3.jpg" alt="Project Logo" width="550" height="400">
 
 ---
 
 # EX2: inputs:
 ## Image1 
-<img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair2/m8.jpg" alt="Project Logo" width="400" height="300">
+<img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair2/m8.jpg" alt="Project Logo" width="550" height="400">
 
 ## Image2
-<img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair2/s8.jpg" alt="Project Logo" width="400" height="300">
+<img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair2/s8.jpg" alt="Project Logo" width="550" height="400">
 
 # output:
-<img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair2/out8_14.jpg" alt="Project Logo" width="400" height="300">
+<img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair2/out8_14.jpg" alt="Project Logo" width="550" height="400">
