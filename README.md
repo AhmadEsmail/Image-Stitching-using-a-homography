@@ -11,7 +11,7 @@ The task is to stitch the images of the two cameras by a homography where:
 
 # EX1: inputs:
 ## Image1 
-<img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair1/m2.jpg" alt="Project Logo" width="400" height="300">
+<img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair1/m2.jpg" alt="Project Logo" width="500" height="350">
 
 ## Image2
 <img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair1/s2.jpg" alt="Project Logo" width="400" height="300">
