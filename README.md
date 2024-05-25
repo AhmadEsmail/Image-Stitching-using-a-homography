@@ -39,15 +39,6 @@ This repository contains a C++ implementation for stitching images captured by d
     ./stitch_images 0.5 image1.jpg image2.jpg stitched_image.jpg
     ```
 
-## Contributing
-
-Contributions are welcome! If you have any ideas for improvement, found a bug, or want to add a new feature, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
 # EX1: inputs:
 ## Image1 
 <img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair1/m2.jpg" alt="Project Logo" width="550" height="400">
@@ -69,3 +60,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 # output:
 <img src="https://github.com/AhmadEsmail/Image-Stitching-using-a-homography/blob/main/pair2/out8_14.jpg" alt="Project Logo" width="550" height="400">
+
+## Contributing
+
+Contributions are welcome! If you have any ideas for improvement, found a bug, or want to add a new feature, feel free to open an issue or submit a pull request.
+
+
